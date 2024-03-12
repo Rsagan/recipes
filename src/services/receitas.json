@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "titulo": "Feijoada",
+    "ingredientes": "Feijão preto, Carne de porco (costela, pé, orelha, rabo), Linguiça calabresa, Bacon, Cebola, Alho, Louro, Sal",
+    "modoPreparo": "Cozinhe o feijão com água, sal, alho, cebola e louro. Adicione as carnes previamente cozidas e a linguiça cortada em rodelas. Deixe cozinhar até que os ingredientes estejam macios e o caldo engrosse.",
+    "imagem": "https://img.nsctotal.com.br/wp-content/uploads/2022/06/feijoada-944x531.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "Moqueca de peixe",
+    "ingredientes": "Peixe em postas, Leite de coco, Pimentões coloridos, Tomate, Cebola, Alho, Coentro, Azeite de dendê",
+    "modoPreparo": " Refogue a cebola, alho e pimentões no azeite de dendê. Adicione o tomate picado e deixe refogar. Coloque o peixe, o leite de coco e cozinhe até que o peixe esteja macio.",
+    "imagem": "https://www.sumerbol.com.br/uploads/images/2017/11/moqueca-de-peixe-590-1510656991.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Coxinha",
+    "ingredientes": "Frango cozido e desfiado, Massa de batata, Farinha de rosca, Ovos, Caldo de galinha",
+    "modoPreparo": "Modele a massa em formato de coxinha, recheie com o frango desfiado. Passe as coxinhas no caldo de galinha, depois na farinha de rosca. Frite em óleo quente até dourar.",
+    "imagem": "https://olvebra.com.br/wp-content/uploads/2020/05/Imagem-meramente-ilustrativa.-5.png"
+  },
+  {
+    "id": 4,
+    "titulo": "Acarajé",
+    "ingredientes": " Feijão fradinho, Cebola, Sal, Azeite de dendê, Camarão seco",
+    "modoPreparo": "Prepare o molho de carne moída: Em uma panela, refogue a carne moída até dourar. Adicione o molho de tomate, tempere com sal e pimenta a gosto. Reserve.  Prepare o molho branco: Em outra panela, derreta a manteiga e adicione a farinha de trigo. Cozinhe por alguns minutos para formar um roux. Gradualmente, adicione o leite, mexendo constantemente para evitar grumos. Cozinhe até engrossar. Tempere com sal, pimenta e noz-moscada a gosto. Adicione o creme de leite e misture bem. Montagem da lasanha: Em uma forma retangular, comece com uma camada fina de molho de carne no fundo. Adicione uma camada de massa de lasanha por cima. Em seguida, adicione uma camada de molho branco e uma camada de queijo muçarela. Repita as camadas: Continue alternando as camadas de massa, molho de carne, molho branco e queijo muçarela até que todos os ingredientes sejam usados.  Finalização: Finalize com uma camada de queijo parmesão ralado por cima da última camada de queijo muçarela.  Asse: Cubra a forma com papel alumínio e leve ao forno pré-aquecido a 180°C por cerca de 30-40 minutos, até que a lasanha esteja bem cozida e o queijo esteja derretido.  Gratine: Retire o papel alumínio e deixe a lasanha no forno por mais alguns minutos para gratinar o queijo na parte superior. Servir: Retire a lasanha do forno e deixe descansar por alguns minutos antes de cortar em porções individuais. Sirva quente e aproveite!  Lembre-se de que as quantidades exatas de ingredientes podem variar de acordo com o número de porções que você deseja fazer. Certifique-se de ajustar as quantidades conforme necessário.",
+    "imagem": "https://portalcorreio.com.br/portalcorreio/arquivos/2023/11/84aca03b8295cddaa7baba83942839f2.png"
+  },
+  {
+    "id": 5,
+    "titulo": "Pão de queijo",
+    "ingredientes": "Polvilho doce, Queijo minas ralado, Ovos, Leite, Óleo",
+    "modoPreparo": "Misture todos os ingredientes até obter uma massa homogênea. Modele bolinhas e asse em forno preaquecido até dourar.",
+    "imagem": "https://moinhoglobo.com.br/wp-content/uploads/2016/03/44-p%C3%A3o-de-queijo-768x432.jpg"
+  }
+]
